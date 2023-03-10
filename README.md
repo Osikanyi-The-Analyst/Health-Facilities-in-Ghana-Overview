@@ -8,6 +8,9 @@ The following datasets were used for this project:
 2. Regional Population in Ghana: web scrapped from Wikipedia.
 3. Regional Area in Ghana: web scrapped from Wikipedia.
 
+## Web Scraping
+To obtain the necessary population and area data for each region in Ghana, web scraping was employed. The population and area data were obtained from the Wikipedia pages on the List of Ghanaian regions by population and List of Ghanaian regions by area, respectively. The web scraping process was done using Python and the Beautiful Soup library.
+
 ## Tableau Dashboard
 The Tableau dashboard includes the following visualizations:
 
