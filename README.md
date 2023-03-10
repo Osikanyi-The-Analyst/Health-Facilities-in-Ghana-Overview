@@ -41,3 +41,14 @@ To interact with the [Tableau dashboard](https://public.tableau.com/app/profile/
 
 ## Acknowledgments
 Special thanks to the Ghana Open Data Initiative and Wikipedia for providing the data used in this project.
+
+## Collaboration
+Collaboration is welcome! If you have suggestions for improving this project, or if you notice any issues, please feel free to open an issue or pull request. To do so, follow these steps:
+
+Click the "Issues" tab in the top menu of this page.
+Click the green "New issue" button.
+Provide a clear title and description of the issue you're reporting.
+Click the green "Submit new issue" button.
+If you have any suggestions for how to improve the project or would like to discuss new features, please open a new issue with a clear description of what you'd like to see. We welcome feedback from all users and are always looking for ways to improve the project.
+
+Thank you for your interest in collaborating on this project!
