@@ -18,7 +18,7 @@ The Tableau dashboard includes the following visualizations:
 5. Facilities by Type: displays the distribution of health facilities by type (hospitals, clinics, health directorates, maternity homes, health centers, CHPS, RCH, directorates, and others).
 6. Regional Key Indicators: shows key indicators such as the total number of facilities, and the count and percentage of each facility type.
 
-##Repository Contents
+## Repository Contents
 The following files can be found in this repository:
 
 1. health-facilities-gh.csv: the original dataset obtained from Kaggle.
