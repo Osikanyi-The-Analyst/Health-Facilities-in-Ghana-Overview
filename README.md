@@ -30,7 +30,7 @@ The following files can be found in this repository:
 2. [health-facility-tiers.csv](https://github.com/Osikanyi-The-Analyst/Health-Facilities-in-Ghana-Overview/blob/main/health-facility-tiers.csv): the original dataset obtained from Kaggle.
 3. [regional_population.csv](https://github.com/Osikanyi-The-Analyst/Health-Facilities-in-Ghana-Overview/blob/main/regional_population.csv): the cleaned dataset obtained from Wikipedia.
 4. [regional_area.csv](https://github.com/Osikanyi-The-Analyst/Health-Facilities-in-Ghana-Overview/blob/main/Regional_Area.csv): the cleaned dataset obtained from Wikipedia.
-5. Health Facilities in Ghana.twb: the Tableau workbook containing the visualizations.
+5. [Health Facilities in Ghana.twb](https://github.com/Osikanyi-The-Analyst/Health-Facilities-in-Ghana-Overview/blob/main/Health%20Facilities%20in%20Ghana.twbx): the Tableau workbook containing the visualizations.
 6. README.md: this file.
 7. [Regional_Area.py](https://github.com/Osikanyi-The-Analyst/Health-Facilities-in-Ghana-Overview/blob/main/Regional_Area.py): Python code for scrapping Regional Areas
 8. [regional_population.py](https://github.com/Osikanyi-The-Analyst/Health-Facilities-in-Ghana-Overview/blob/main/regional_population.py): Python Code for scrapping Population of Regions.
